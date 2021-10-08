@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)https://getbootstrap.com/docs/4.0/examples/starter-template/ -->
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="Personal Webpage" />
+    <meta name="author" content="Tianhao Qu" />
+    <!--Icon by Freepik: https://www.freepik.com-->
+    <link rel="icon" href="images/t.png" />
+
+    <title>Tianhao Qu Personal Homepage</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="styles/style.css" rel="stylesheet" />
+
+    <!-- Additional custom styles for this template -->
+    <link href="styles/custom-style.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <a class="navbar-brand" href="index.html">Tianhao Qu</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarsExampleDefault"
+        aria-controls="navbarsExampleDefault"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html"
+              >Home <span class="sr-only">(current)</span></a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="work.html">Work Experience</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="project.html">Project Experience</a>
+          </li>
+        </ul>
+
+        <a href="https://www.linkedin.com/in/tianhao-qu/">
+          <img
+            class="social-icon"
+            src="images/linkedin-logo.jpg"
+            alt="LinkedIn Logo"
+            width="40"
+            height="40"
+            style="float: right"
+          />
+        </a>
+
+        <a href="mailto:qu.t@northeastern.edu">
+          <img
+            class="social-icon"
+            src="images/email-3.png"
+            alt="Email Logo"
+            width="40"
+            height="40"
+            style="float: right"
+          />
+        </a>
+      </div>
+    </nav>
+
+    <main class="container">
+      <div class="starter-template">
+        <div class="row">
+          <div class="col-5">
+            <img
+              src="images/avatar.jfif"
+              alt="Avatar"
+              width="250"
+              height="250"
+            />
+          </div>
+
+          <div class="col-7">
+            <br />
+            <br />
+            <h1>Welcome!</h1>
+            <p class="lead">
+              I'm a junior at Northeastern University majoring in data science
+              with programming experience in Java, Python, SQL & NoSQL dbs, Data
+              Visualization tools such as d3.js and Vega-lite.
+            </p>
+          </div>
+        </div>
+        <br />
+        <br />
+
+        <!--Put a school picture on the left of the entire introduction section-->
+        <a href="https://www.northeastern.edu/"
+          ><img
+            style="float: right"
+            src="images/Northeastern-University-Logo.png"
+            alt="Northeastern University Logo"
+            width="300"
+            height="100"
+        /></a>
+        <section class="introduction">
+          <h3>Education</h3>
+          <h4>
+            B.S. Data Science -
+            <a href="https://www.northeastern.edu/">Northeastern University </a>
+          </h4>
+          <h5>2019-2023, Dean's List</h5>
+          <p class="coursework">
+            *Related Coursework*: Business Statistics, Calculus 3, Database
+            Design (MySQL), Discrete Structures, Economic Statistics,
+            Fundamentals of Computer Science 1 (Racket), Fundamentals of
+            Computer Science 2 (Java), Fundamentals of Information Analytics,
+            Information Visualization (D3.js, Vega-Lite), Intro to Data Science
+            (Python), Large-scale information storage (NoSQL, Scala), Linear
+            Algebra, Object-Oriented Design.<br /><br />
+          </p>
+        </section>
+
+        <section class="skills">
+          <h3>Skills</h3>
+          <div id="skill-graph"></div>
+          <script type="module" src="scripts/main.js"></script>
+          <p>
+            (5 means proficient, 0 means doesn't know it at all. Hover your
+            mouse over each bar to see details.)<br />
+            <br />
+          </p>
+        </section>
+
+        <section class="interests">
+          <h3>Interests/Clubs</h3>
+          <h4>
+            Developer @
+            <a href="https://www.northeastern.edu/idea/"
+              >Northeastern University Venture Accelerator</a
+            >
+          </h4>
+          <h5>2021-Present</h5>
+          <p>Current working as a developer of the technology team.</p>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>

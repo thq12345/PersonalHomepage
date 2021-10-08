@@ -1,0 +1,20 @@
+{
+  "name": "Personal Homepage",
+  "version": "1.0.0",
+  "description": "Project 1 Personal Homepage for CS5610",
+  "main": "scripts/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tianhao Qu",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.4.1"
+  },
+  "dependencies": {
+    "vega-lite": "^5.1.1"
+  }
+}
