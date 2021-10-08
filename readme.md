@@ -15,9 +15,9 @@ project & work experience, education, skills, interests to better present myself
 
 ## Project Screenshot:
 
-![Screenshot of homepage](images/screenshot of homepage.png)
-![Screenshot of work experience page](images/work experience.png)
-![Screenshot of project experience page](images/project experience.png)
+![Screenshot of homepage](https://raw.githubusercontent.com/thq12345/PersonalHomepage/main/images/screenshot%20of%20homepage.png)
+![Screenshot of work experience page](https://raw.githubusercontent.com/thq12345/PersonalHomepage/main/images/work%20experience.png)
+![Screenshot of project experience page](https://raw.githubusercontent.com/thq12345/PersonalHomepage/main/images/project%20experience.png)
 
 ## Instructions to Use:
 
