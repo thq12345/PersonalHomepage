@@ -8,6 +8,8 @@ This is a class project for CS 5610 at Northeastern University Silicon Valley Ca
 
 Class Link: https://johnguerra.co/classes/webDevelopment_fall_2021/
 
+Demo Video Link: https://youtu.be/HphQZWC3mtc
+
 ## Project Objective:
 
 This is html/css/javascript based project trying to build a personal homepage, including my basic personal information,
