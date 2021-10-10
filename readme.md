@@ -10,6 +10,10 @@ Class Link: https://johnguerra.co/classes/webDevelopment_fall_2021/
 
 Demo Video Link: https://youtu.be/HphQZWC3mtc
 
+Webpage Link: https://thq12345.github.io/PersonalHomepage/
+
+Demo Slides Link: https://docs.google.com/presentation/d/12xyLSEko8kEVgWDvQgyMQ417uBHMRo2wwcn23IgeA_8/edit#slide=id.p
+
 ## Project Objective:
 
 This is html/css/javascript based project trying to build a personal homepage, including my basic personal information,
@@ -20,6 +24,11 @@ project & work experience, education, skills, interests to better present myself
 ![Screenshot of homepage](https://raw.githubusercontent.com/thq12345/PersonalHomepage/main/images/screenshot%20of%20homepage.png)
 ![Screenshot of work experience page](https://raw.githubusercontent.com/thq12345/PersonalHomepage/main/images/work%20experience.png)
 ![Screenshot of project experience page](https://raw.githubusercontent.com/thq12345/PersonalHomepage/main/images/project%20experience.png)
+
+## Instructions to Build:
+
+1. Install Node.js, eslint (recommended), install WebStorm (Or other Javascript IDE/Source Code Editor)
+2. Clone the entire repository and load the file onto the IDE/Source Code Editor.
 
 ## Instructions to Use:
 
